@@ -15,7 +15,6 @@
 clc
 clear all
 close all
-addpath tools
 
 % --- input number of tops n>=3
 n = 5;
