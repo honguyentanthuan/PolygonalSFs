@@ -1,2 +1,2 @@
 # polygonalSFs
-Plygonal shape functions for FEM using Wachspress coordinates
+Polygonal shape functions for FEM using Wachspress coordinates
